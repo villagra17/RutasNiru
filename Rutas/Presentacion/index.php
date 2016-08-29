@@ -1,5 +1,5 @@
 <?php  
-    require_once  'C:\wamp\www\Proyecto\ModeladoDeDatos\loginServices.php';
+    require_once  'C:\xampp\htdocs\Proyecto\Rutas\ModeladoDeDatos\loginServices.php';
     $loginservices=new loginServices();
  ?>
 

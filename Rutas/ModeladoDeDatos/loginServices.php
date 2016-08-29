@@ -1,5 +1,5 @@
 <?php 
-  require_once 'C:\wamp\www\Proyecto\AccesoADatos\mysqlclass.php';
+  require_once 'C:\xampp\htdocs\Proyecto\Rutas\AccesoADatos\mysqlclass.php';
 
 class loginServices{
     
